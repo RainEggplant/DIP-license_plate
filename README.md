@@ -1,2 +1,5 @@
 # DIP-license_plate
- License plate detection and character segmentation. [course project of Digital Image Processing]
+
+License plate detection and character segmentation. [course project of Digital Image Processing]
+
+**See the [report](report.md)**.
